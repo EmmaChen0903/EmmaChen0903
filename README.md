@@ -27,5 +27,5 @@ Welcome to my academic poster repository. Below you can find my latest academic 
 Welcome to my academic poster repository. Below you can find my latest academic poster.
 
 ## Poster
-[View my academic poster](Visualization/9_May_2024/"Easy%20Access%20to%20Healthcare"%20Service/%28修改%290509_v4.pdf)
+[View my academic poster](EmmaChen0903/Visualization/9_May_2024/"Easy%20Access%20to%20Healthcare"%20Service/%28修改%290509_v4.pdf)
 
