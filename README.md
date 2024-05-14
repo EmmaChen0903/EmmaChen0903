@@ -26,10 +26,10 @@ Welcome to my academic poster repository. Below you can find my latest academic 
 ## Poster
 [View my poster_0509](Visualization/May_09_Biz_Plan/（修改）0509_v4.pdf)<br>
 [View my poster_0507](Visualization/May_7_Crocodile/0507_v2.pdf)<br>
-[View my academic 0506](Visualization/May_06_Genotoxic%20Impurities%20in%20API%20and%20Drug%20Products/0503_v4.pdf)<br>
-[View my academic 0430](Visualization/Apr_30_Hackmanite%3A%20The%20Natural%20Glow-in-the-Dark%20Material/Hackmanite_v4.pdf)<br>
-[View my academic 0425](Visualization/Apr_25_Fluorescence%20Spectroscopy%20Measurement%20for%20Quality%20Assessment%20of%20Food%20Systems/0425_v2.pdf)<br>
-[View my academic 0405](Visualization/Apr_05_Lung%20Cancer%20Diagnosis/0406_V3.pdf)<br>
-[View my academic 0402](Visualization/Apr_03_CSR/0402_v3.pdf)<br>
+[View my poster 0506](Visualization/May_06_Genotoxic%20Impurities%20in%20API%20and%20Drug%20Products/0503_v4.pdf)<br>
+[View my poster 0430](Visualization/Apr_30_Hackmanite%3A%20The%20Natural%20Glow-in-the-Dark%20Material/Hackmanite_v4.pdf)<br>
+[View my poster 0425](Visualization/Apr_25_Fluorescence%20Spectroscopy%20Measurement%20for%20Quality%20Assessment%20of%20Food%20Systems/0425_v2.pdf)<br>
+[View my poster 0405](Visualization/Apr_05_Lung%20Cancer%20Diagnosis/0406_V3.pdf)<br>
+[View my poster 0402](Visualization/Apr_03_CSR/0402_v3.pdf)<br>
 
 
