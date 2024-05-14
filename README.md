@@ -27,5 +27,12 @@ Welcome to my academic poster repository. Below you can find my latest academic 
 Welcome to my academic poster repository. Below you can find my latest academic poster.
 
 ## Poster
-[View my academic poster](Visualization/May_09_Biz_Plan/（修改）0509_v4.pdf)
+[View my poster_0509](Visualization/May_09_Biz_Plan/（修改）0509_v4.pdf)
+[View my poster_0507](Visualization/May_7_Crocodile/0507_v2.pdf)
+[View my academic poster](Visualization/Apr_30_Hackmanite: The Natural Glow-in-the-Dark Material/Hackmanite_v4.pdf)
+[View my academic poster](Visualization/May_06_Genotoxic Impurities in API and Drug Products/0503_v4.pdf)
+[View my academic poster](Visualization/Apr_25_Fluorescence Spectroscopy Measurement for Quality Assessment of Food Systems/0425_v2.pdf)
+[View my academic poster](Visualization/Apr_05_Lung Cancer Diagnosis/0406_V3.pdf)
+[View my academic poster](Visualization/Apr_03_CSR/0402_v3.pdf)
+
 
