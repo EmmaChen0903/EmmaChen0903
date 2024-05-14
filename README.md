@@ -19,7 +19,7 @@ I'm Emma/Yiman, a graduate in IT with a specialization in Business Analytics tur
 
 
 
-# My Academic Poster Repository
+# 🍄 My Academic Poster Repository
 
 Welcome to my academic poster repository. Below you can find my latest academic poster.
 
