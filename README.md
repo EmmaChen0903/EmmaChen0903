@@ -22,4 +22,10 @@ Welcome to my academic poster repository. Below you can find my latest academic 
 
 ## Poster
 ### Link to PDF (if poster is a PDF file)
-[View my academic poster](9_May_2024/"Easy Access to Healthcare" Service/(修改）0509_v4.pdf)
+# My Academic Poster Repository
+
+Welcome to my academic poster repository. Below you can find my latest academic poster.
+
+## Poster
+[View my academic poster](Visualization/9_May_2024/"Easy%20Access%20to%20Healthcare"%20Service/%28修改%290509_v4.pdf)
+
