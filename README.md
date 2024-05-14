@@ -17,5 +17,9 @@ I'm Emma/Yiman, a graduate in IT with a specialization in Business Analytics tur
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+# My Academic Poster Repository
+Welcome to my academic poster repository. Below you can find my latest academic poster.
+
+## Poster
+### Link to PDF (if poster is a PDF file)
+[View my academic poster](9_May_2024/"Easy Access to Healthcare" Service/(修改）0509_v4.pdf)
